@@ -4,4 +4,4 @@
 ## 博客
 [Lories的博客](https://zouxiaobang.github.io)
 
-![效果图](http://github.com/zouxiaobang/CircleProgress/raw/master/CircleProgress.png)
+![效果图](https://github.com/zouxiaobang/CircleProgress/raw/master/CircleProgress.png)
