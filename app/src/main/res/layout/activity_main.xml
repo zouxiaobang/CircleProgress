@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.zouxiaobang.circleprogress.userdefinedview.CircleProgress
+        android:id="@+id/cp_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:centerText="进度"
+        app:ballRadius="100dp"
+        app:ballColor="#00bcd4"
+        app:centerTextColor="#000000"
+        app:centerTextSize="16sp"
+        app:progressColor="#00796b"/>
+</RelativeLayout>
